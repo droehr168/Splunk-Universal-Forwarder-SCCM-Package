@@ -1,5 +1,6 @@
 # Splunk-Universal-Forwarder-SCCM-Package
-Microsoft System Center Configuration Manager Package for Splunk Universal Forwarder without system/local configuration
+Microsoft System Center Configuration Manager package for Splunk Universal Forwarder (UF) without system/local configuration. This application package installs or upgrades the Splunk UF via Powershell in the background, as various states can thus be checked and achieved. During deployment/installation, settings under system/local are checked and partially removed. After successful installation, a customized Splunk app is copied to the application directory, which speaks to full central administration via the Splunk Deployment Server(s).
+
 
 For the package import, the following steps are required:
    * copy xxx_package.zip file and the entire folder xxx_package_files
