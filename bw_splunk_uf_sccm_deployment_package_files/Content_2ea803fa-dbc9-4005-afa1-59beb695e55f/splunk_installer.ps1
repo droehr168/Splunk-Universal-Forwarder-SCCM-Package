@@ -3,8 +3,8 @@
 	===========================================================================
 	 Created with: 	PowerShell Studio
 	 Created on:   	06.07.2024 13:51
-	 Created by:   	drohr@splunk
-	 Organization: 	splunk
+	 Created by:   	drohr@splunk.com
+	 Organization: 	Splunk
 	 Filename:     	-
 
      	 Customer:      XXX
