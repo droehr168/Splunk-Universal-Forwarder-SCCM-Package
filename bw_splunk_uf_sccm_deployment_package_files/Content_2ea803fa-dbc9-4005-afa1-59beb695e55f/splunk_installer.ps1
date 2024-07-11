@@ -7,7 +7,7 @@
 	 Organization: 	splunk
 	 Filename:     	-
 
-     Customer:      Bundeswehr IT Security & Audit
+     	 Customer:      XXX
 	===========================================================================
 	.DESCRIPTION
        - install splunk forwarder with random complex password (32 char) 		
